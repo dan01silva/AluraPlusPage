@@ -1,5 +1,7 @@
 
-<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p>
+<p align="center"> <img src="https://imgur.com/BASzVop.png" alt="HTML e CSS: praticando HTML e CSS"> </p
+
+Acesse o Página na Web: https://dan01silva.github.io/AluraPlusPage/
 
 <hr>
 
